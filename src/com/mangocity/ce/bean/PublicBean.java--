@@ -1,0 +1,71 @@
+package com.mangocity.ce.bean;
+
+import java.io.Serializable;
+import java.util.HashMap;
+import java.util.Map;
+
+public class PublicBean implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 698852581L;
+	
+	private String adjustID;
+	private String Naming;
+	private String resultCode;
+	private String resutlMsg;
+	private String errorType;
+	
+	private Map<String, Object> resultList = new HashMap<String, Object>();
+
+	public String getAdjustID() {
+		return adjustID;
+	}
+
+	public void setAdjustID(String adjustID) {
+		this.adjustID = adjustID;
+	}
+
+	public String getNaming() {
+		return Naming;
+	}
+
+	public void setNaming(String naming) {
+		Naming = naming;
+	}
+
+	public String getResultCode() {
+		return resultCode;
+	}
+
+	public void setResultCode(String resultCode) {
+		this.resultCode = resultCode;
+	}
+
+	public String getResutlMsg() {
+		return resutlMsg;
+	}
+
+	public void setResutlMsg(String resutlMsg) {
+		this.resutlMsg = resutlMsg;
+	}
+
+	public String getErrorType() {
+		return errorType;
+	}
+
+	public void setErrorType(String errorType) {
+		this.errorType = errorType;
+	}
+
+	public Map<String, Object> getResultList() {
+		return resultList;
+	}
+
+	public void setResultList(Map<String, Object> resultList) {
+		this.resultList = resultList;
+	}
+	
+	
+}

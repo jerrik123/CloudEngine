@@ -1,0 +1,6 @@
+1.增加了check校验
+2.New Sets工具类
+3.CommonUtils增加了几个工具方法
+4.RedisUtils 
+5.增加了Common-pool jar包
+6.更新了jsonUtils 当请求参数不符合json规则时,提示错误

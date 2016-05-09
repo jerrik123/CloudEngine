@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="ce" basedir="." default="jar">
+	<property name="src.dir" value="src" />
+	<property name="jar.dir" value="." />
+	<property name="bin.dir" value="bin" />
+	<property name="lib.dir" value="lib" />
+	<path id="classpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar" />
+	</path>
+	<target name="compile">
+		<mkdir dir="${bin.dir}" />
+		<javac srcdir="${src.dir}" destdir="${bin.dir}" classpathref="classpath" bootclasspath="${java.home}/lib/rt.jar;${java.home}/lib/jce.jar" >
+		<compilerarg line="-encoding UTF-8"/>
+		</javac>
+	</target>
+	<target name="clean">
+		<delete file="${jar.dir}/${ant.project.name}.jar" />
+		<delete dir="${bin.dir}" />
+	</target>
+	<target name="jar" depends="clean,compile">
+		<mkdir dir="${jar.dir}" />
+		<jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${bin.dir}" />
+	</target>
+</project>

@@ -1,0 +1,109 @@
+[Error] 09:44:40,946 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Element result of type com.mangocity.ce.bean.ActionBean$Result is not defined as field in type com.mangocity.ce.bean.ActionBean
+---- Debugging information ----
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:46:07,857 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Element result of type com.mangocity.ce.bean.ActionBean$Result is not defined as field in type com.mangocity.ce.bean.ActionBean
+---- Debugging information ----
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:47:36,208 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Element result of type com.mangocity.ce.bean.ActionBean$Result is not defined as field in type com.mangocity.ce.bean.ActionBean
+---- Debugging information ----
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:48:47,442 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Element result of type com.mangocity.ce.bean.ActionBean$Result is not defined as field in type com.mangocity.ce.bean.ActionBean
+---- Debugging information ----
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:50:56,537 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Element result of type com.mangocity.ce.bean.ActionBean$Result is not defined as field in type com.mangocity.ce.bean.ActionBean
+---- Debugging information ----
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:50:56,568 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Element result of type com.mangocity.ce.bean.ActionBean$Result is not defined as field in type com.mangocity.ce.bean.ActionBean
+---- Debugging information ----
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:51:34,342 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:51:34,389 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:52:26,720 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:52:26,751 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:53:35,301 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:53:35,348 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:55:13,867 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  [Error] 09:55:13,898 ERROR DeployFileManage ~ com.thoughtworks.xstream.converters.ConversionException: Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+---- Debugging information ----
+message             : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+cause-exception     : com.thoughtworks.xstream.converters.reflection.ObjectAccessException
+cause-message       : Cannot construct com.mangocity.ce.bean.ActionBean$Result as it does not have a no-args constructor
+class               : java.util.ArrayList
+required-type       : com.mangocity.ce.bean.ActionBean$Result
+path                : /mangocity/action/result
+-------------------------------
+  
